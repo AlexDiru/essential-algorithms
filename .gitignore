@@ -10,3 +10,11 @@
 *.lai
 *.la
 *.a
+
+# VS Bloat
+*.filters
+*.user
+Debug/
+Release/
+*.sdf
+ipch/
